@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "D:\\Labs\\TensorFlow\\tensorflow-style-transfer-android\\android\\res\\drawable-hdpi\\tile.9.png"
+    }
+]

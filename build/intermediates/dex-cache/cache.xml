@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Labs\TensorFlow\tensorflow-style-transfer-android\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Labs\TensorFlow\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f74e5e0cfb754de811ba54ab9089afd263c0b90b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Labs\TensorFlow\tensorflow-style-transfer-android\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b9ce79b998008d7022e07ea38c9ef30a6749ce4">
+        <dex dex="D:\Labs\TensorFlow\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e616ac0d0af66c74146efa0009cbbb1f0e80fdf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bruno.andrade\.android\build-cache\08c5f0f7522a01e011b27299ee85598d7d37a105\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="D:\Labs\TensorFlow\tensorflow-style-transfer-android\android\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dc16aa3557b7695b3635439958fb92f9a2c7f1d\classes.dex" />
+    </item>
+
+</items>
